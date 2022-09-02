@@ -1,7 +1,9 @@
 React and Next.js combined application to build a real estate website.
 
-Detailed properties info, search of properties and many other features.
+I've worked with Bayut (RapidAPI), used hooks, axios, chakra-ui, functional components and more of React's features.
 
-DEPLOYED ON VERCEL!
+Some of the site options are: etailed properties info, search of properties and more.
 
-DEPLOYMENT LINK: https://realestate-project-three.vercel.app/
+Website is deployed on Vercel.
+
+Deployment link: https://realestate-project-three.vercel.app/
